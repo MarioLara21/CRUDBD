@@ -1,0 +1,2 @@
+G:\TEC\II Semestre 2022\Bases I Again\PC\Proyecto\PruebaDeConcepto\obj\Debug\PruebaDeConcepto.csproj.AssemblyReference.cache
+G:\TEC\II Semestre 2022\Bases I Again\PC\Proyecto\PruebaDeConcepto\obj\Debug\PruebaDeConcepto.csproj.CoreCompileInputs.cache

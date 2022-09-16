@@ -1,0 +1,32 @@
+﻿
+@model List<PruebaDeConcepto.Models.Usuario>
+
+@{
+    ViewBag.Title = "Proyecto 1 concepto";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <input ty
+
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table">
+            <tr>Id</tr>
+            <tr>Nombre</tr>
+            <tr>Clave</tr>
+            @foreach (var oElemento in Model)
+            {
+        <tr>
+            <td>@oElemento.Id</td>
+            <td>@oElemento.Nombre</td>
+            <td>@oElemento.Clave</td>
+        </tr>
+            }
+        </table>
+    </div>
+</div>
+
